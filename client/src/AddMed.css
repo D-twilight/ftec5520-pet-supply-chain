@@ -1,0 +1,137 @@
+.add-med {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.add-med .div-2 {
+    background-color: #ffffff;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+}
+
+.add-med .user-table {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 558px;
+    left: 80px;
+    overflow: hidden;
+    position: absolute;
+    top: 300px;
+    width: 1245px;
+}
+
+.add-med .text-wrapper {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 119px;
+    letter-spacing: 0;
+    line-height: 31.2px;
+    position: absolute;
+    top: 350px;
+    white-space: nowrap;
+    width: 186px;
+}
+
+.add-med .add-order {
+    background-color: #fafaf5;
+    border: 2px solid;
+    border-color: #e6e6e6;
+    border-radius: 24px;
+    height: 160px;
+    left: 96px;
+    overflow: hidden;
+    position: absolute;
+    top: 152px;
+    width: 1248px;
+}
+
+.add-med .frame-1 {
+    left: 90px !important;
+    position: absolute !important;
+    top: 80px !important;
+    width: 400px;
+}
+
+.add-med .frame-2 {
+    left: 540px !important;
+    position: absolute !important;
+    top: 80px !important;
+    width: 400px;
+}
+
+.add-med .order-button {
+
+    left: 1030px;
+
+    position: absolute;
+    top: 80px;
+}
+
+.add-med .text-wrapper-2{
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 20px;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 20.8px;
+    position: absolute;
+    text-align: center;
+    top: 5px;
+    white-space: normal;
+}
+
+.add-med .text-wrapper-3{
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: 31.2px;
+    position: absolute;
+    top: 18px;
+    white-space: nowrap;
+    width: 186px;
+}
+
+.add-med .text-wrapper-4{
+    color: #426b1f;
+    font-family: "Newsreader-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 336px;
+    letter-spacing: -0.2px;
+    line-height: 20px;
+    position: absolute;
+    top: 78px;
+    white-space: nowrap;
+}
+
+.add-med .home-button {
+    left: 119px;
+    top: 51px;
+}
+
+.add-med .text-wrapper-5{
+    color: #426b1f;
+    font-family: "Newsreader-Medium", Helvetica;
+    font-size: 32px;
+    font-weight: 500;
+    left: 40px;
+    letter-spacing: -0.32px;
+    line-height: 32px;
+    position: absolute;
+    top: 9px;
+    white-space: nowrap;
+}

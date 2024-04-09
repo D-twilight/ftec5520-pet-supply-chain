@@ -1,0 +1,97 @@
+.account {
+    color: #426b1f;
+    font-size: 20px; 
+    font-weight: 500; 
+    left: 200px;
+    position: absolute; 
+    top: 45px;
+    white-space: nowrap;
+}
+
+.home-button {
+    left: 80px;
+    top: 40px;
+}
+
+.Raw{
+    height: 105px;
+    left: 86px;
+    position: absolute;
+    top: 100px;
+    width: 1300px; 
+}
+
+.Man{
+    height: 105px;
+    left: 86px;
+    position: absolute;
+    top: 300px;
+    width: 1300px; 
+}
+
+.Dis{
+    height: 105px;
+    left: 86px;
+    position: absolute;
+    top: 500px;
+    width: 1300px; 
+}
+
+.Ret{
+    height: 105px;
+    left: 86px;
+    position: absolute;
+    top: 700px;
+    width: 1300px; 
+}
+
+.register{
+    left: 1155px;
+    top: 53px;
+}
+
+.title {
+    color: #426b1f;
+    font-family: "Inter-SemiBold", Helvetica; 
+    font-weight: 600; 
+    left: 30px;
+    position: absolute; 
+    top:12px;
+}
+
+.input-1 {
+    background-color: #ffffff; 
+    border: 2px solid;
+    border-color: #426b1f; 
+    height: 44px;
+    left: 30px;
+    position: absolute; 
+    top: 50px;
+    width: 370px;
+}
+
+.input-2 {
+    background-color: #ffffff; 
+    border: 2px solid;
+    border-color: #426b1f; 
+    height: 44px;
+    left: 405px;
+    position: absolute; 
+    top: 50px;
+    width: 370px;
+}
+
+.input-3 {
+    background-color: #ffffff; 
+    border: 2px solid;
+    border-color: #426b1f; 
+    height: 44px;
+    left: 780px;
+    position: absolute; 
+    top: 50px;
+    width: 370px;
+}
+
+
+
+

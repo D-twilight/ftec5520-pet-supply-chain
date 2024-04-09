@@ -1,0 +1,136 @@
+.home {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.home .img {
+    height: 852px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+}
+
+.home .overlap-group-wrapper {
+
+    height: 1526px;
+    /*width: 1440px;*/
+    width: 100%;
+}
+
+.home .overlap-group {
+    height: 1526px;
+    position: relative;
+}
+
+.home .text-wrapper {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 780px;
+    line-height: 41.6px;
+    position: absolute;
+    top: 70px;
+}
+
+.home .div {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 500px;
+    line-height: 41.6px;
+    position: absolute;
+    top: 70px;
+}
+
+.home .register-button {
+    left: 670px; 
+    position: absolute;
+    top: 546px;
+}
+
+.home .text-wrapper-2 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    height: 42px; 
+    line-height: 43px;   
+}
+
+.home .p {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 64px;
+    font-weight: 600;
+    left: 230px;
+    letter-spacing: 0;
+    line-height: 83.2px;
+    width: 1260px;
+    position: absolute;
+    top: 266px;
+}
+
+.home .text-wrapper-3 {
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 25px;
+    font-weight: 600;
+    left: 250px;
+    line-height: 41.6px;
+    position: absolute;
+    top: 70px;
+}
+
+.home .frame {
+    background-color: #426b1f;
+    height: 683px;
+    left: 0;
+    position: absolute;
+    top: 843px;
+    /*width: 1440px;*/
+    width: 100%;
+}
+
+
+.home .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 48px;
+    font-weight: 600;
+    left: 730px;   
+    position: absolute;
+    top: 50px;
+    white-space: nowrap;
+    width: 263px;
+    letter-spacing: 0;
+    line-height: 62.4px;   
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 35px;
+}
+
+.home .about {
+    color: #ffffff;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 470px;
+    position: absolute;
+    top: 100px;
+    white-space: nowrap;
+    width: 263px;
+    letter-spacing: 0;
+    line-height: 62.4px;   
+}
+
+
+
